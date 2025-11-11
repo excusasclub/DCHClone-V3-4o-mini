@@ -410,3 +410,5 @@ Modificando esos archivos puedes:
 - Ajustar el tipo de categorías generadas.
 
 - No hace falta tocar el código para cambiar el estilo del contenido. Solo se modifican estos .txt.
+
+**Made by Pedro Corchuelo**
