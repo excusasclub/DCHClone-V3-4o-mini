@@ -332,6 +332,10 @@ pip install -r requirements.txt
 
 Ejemplo de ejecución del flujo completo, en este orden:
 
+Primero descarga tu archivo de alguna de las herramientas seo (semrush o ahref) y guárdalo como `2. Original.csv`.
+
+Luego: 
+
 ```text
 python "_0. Unificar.py"
 
