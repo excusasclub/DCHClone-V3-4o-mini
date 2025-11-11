@@ -276,7 +276,6 @@ Cada artículo queda enlazado a un vídeo relevante de YouTube, mejorando la exp
 
 ## Estructura del proyecto
 
-Un ejemplo de estructura típica de este repositorio:
 
 ```text
 .
