@@ -1,6 +1,6 @@
-# DchBrain SEO Rewriter · Sistema de reescritura y mejora automática de contenido por URL
+# DCHClone-V3-4o-mini · Sistema de reescritura y mejora automática de contenido por URL
 
-**DchBrain SEO Rewriter** es un sistema modular en **Python** diseñado para reescribir y mejorar de forma masiva el contenido de un sitio web a partir de un estudio de palabras clave exportado desde herramientas SEO como **Semrush**, **Ahrefs** o similares.
+**DCHClone-V3-4o-mini** es un sistema modular en **Python** diseñado para reescribir y mejorar de forma masiva el contenido de un sitio web a partir de un estudio de palabras clave exportado desde herramientas SEO como **Semrush**, **Ahrefs** o similares.
 
 A diferencia de un simple generador de artículos, este proyecto:
 
