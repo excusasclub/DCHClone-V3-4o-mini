@@ -276,7 +276,6 @@ Cada artículo queda enlazado a un vídeo relevante de YouTube, mejorando la exp
 
 ## Estructura del proyecto
 
-Un ejemplo de estructura típica de este repositorio:
 
 ```text
 .
@@ -411,4 +410,6 @@ Modificando esos archivos puedes:
 
 - No hace falta tocar el código para cambiar el estilo del contenido. Solo se modifican estos .txt.
 
+
 **Made by Pedro Corchuelo**
+
