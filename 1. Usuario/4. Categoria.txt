@@ -1,0 +1,1 @@
+Qué categoría deberá tener mi artículo titulado: "{titulo}".

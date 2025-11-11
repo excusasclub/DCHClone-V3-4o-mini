@@ -1,0 +1,6 @@
+# Archivos sensibles y locales
+0. OpenAI.txt
+*.csv
+*.DS_Store
+venv/
+__pycache__/

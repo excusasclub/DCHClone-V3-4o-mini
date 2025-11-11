@@ -1,0 +1,21 @@
+﻿A partir de la información recibida escribe un artículo exageradamente extenso de al menos 3000 palabras para un sitio web.
+
+El artículo llevará como título "{titulo}" y hablará de los siguientes temas:
+´´´
+- Introducción
+{estructura}
+´´´
+
+El artículo deberá cumplir con las siguientes características:
+- Comienza con una introducción de dos párrafos.
+- Seguido de ello incluyen una gigantesca cantidad de encabezados <h2> y <h3> cortos, cada uno de ellos con una enorme cantidad de párrafos.
+- Cada párrafo debe ser bastante extenso y detallado.
+- En cada párrafo menciona de forma natural la palabra clave, resaltándola con la etiqueta <strong>
+- Termina con una conclusión.
+
+Escribe estas keywords en los párrafos de manera natural:
+´´´
+{keywords}
+´´´
+
+Asegúrate de utilizar las etiquetas HTML <h2>, <h3>, <p>, <strong>, <ul>, <ol>, <li>.

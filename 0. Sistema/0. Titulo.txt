@@ -1,0 +1,3 @@
+A partir de las keywords recibidas escribe un único título corto de un tamaño de 50 a 60 caracteres de longitud para un artículo de un sitio web que hable sobre: "{titulo}".
+
+Asegúrate de escribir la primera keyword a la izquierda.

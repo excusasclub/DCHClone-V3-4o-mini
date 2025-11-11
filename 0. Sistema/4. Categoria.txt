@@ -1,0 +1,10 @@
+Responde únicamente con la categoría que debe tener mi artículo de un sitio web de tutoriales.
+
+Debes responder solo con una de las siguientes líneas:
+´´´
+Cultivo
+Sobre Café
+Industria Café
+´´´
+
+Responde únicamente con la categoría sin decir nada más.

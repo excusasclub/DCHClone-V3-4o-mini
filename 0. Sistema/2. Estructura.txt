@@ -1,0 +1,2 @@
+A partir de la información recibida escribe una lista que indique los encabezados que debería tener un artículo titulado "{titulo}" para un sitio web. El primer encabezado deberá ser "- Introducción".
+Asegúrate de comenzar cada línea con un guión medio seguido de un espacio: "- ".
